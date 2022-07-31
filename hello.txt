@@ -7,3 +7,5 @@ hello,the world
 hello,the world
 hello,the world
 hello,the pikaqiu
+hello,the kabishou
+
